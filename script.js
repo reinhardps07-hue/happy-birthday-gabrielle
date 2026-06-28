@@ -44,87 +44,87 @@ const reasons = [
 
 {
 title:"Your Smile",
-text:"Karena senyummu selalu berhasil membuat hariku terasa lebih baik."
+text:"Karena senyummuu palingg bikin harikuu jadii senengg teruss."
 },
 
 {
 title:"Your Kindness",
-text:"Karena kamu selalu peduli pada orang lain dengan tulus."
+text:"Karena memeee selalu caree samaa akuuu."
 },
 
 {
 title:"Your Presence",
-text:"Karena kehadiranmu membuat banyak hal terasa lebih berarti."
+text:"Karena adanyaa memeee bikinn banyak halll terasa lebih betterr."
 },
 
 {
 title:"Your Laugh",
-text:"Karena tawamu adalah salah satu suara favoritku."
+text:"Karenaa happyyymuu ituu the onee and onlyyy my favv."
 },
 
 {
 title:"Your Strength",
-text:"Karena kamu selalu berusaha kuat meskipun keadaan tidak selalu mudah."
+text:"Karena kamu selaluu berusahaaa kuat walaupunn keadaan lagii ga gampanggg."
 },
 
 {
 title:"Your Heart",
-text:"Karena kamu punya hati yang begitu baik."
+text:"Karena kamuuu punya hatii yangg baik polll."
 },
 
 {
 title:"Your Support",
-text:"Karena kamu selalu ada di saat yang penting."
+text:"Karena memeee selalu ada kapannpunnn."
 },
 
 {
 title:"Your Dreams",
-text:"Karena kamu selalu punya semangat untuk mengejar impianmu."
+text:"Karena menurutttkuu memeee selalu punya semangattt untuk mengejar mimpiiimuu."
 },
 
 {
 title:"Your Honesty",
-text:"Karena kamu selalu menjadi dirimu sendiri."
+text:"Karenaaa memeee selalu jadi diriii sendiriii."
 },
 
 {
 title:"Your Warmth",
-text:"Karena kamu membuat orang merasa nyaman di dekatmu."
+text:"Karenaaa memeee bikinn akuuu ngerasaa nyamann kaloo dideketmuu."
 },
 
 {
 title:"Your Personality",
-text:"Karena tidak ada orang lain yang bisa menggantikan caramu menjadi dirimu sendiri."
+text:"Karenaaa gaaada orang lain yangg bisa gantiinn caramuuu menjadi dirimu sendiri."
 },
 
 {
 title:"Your Effort",
-text:"Karena kamu selalu mencoba memberikan yang terbaik."
+text:"Karenaaa memee selaluu kasiii yang terbaik."
 },
 
 {
 title:"Your Positivity",
-text:"Karena kamu membawa energi baik ke banyak orang."
+text:"Karena memeee bawaaa energi positif ke akuuuu."
 },
 
 {
 title:"Your Care",
-text:"Karena kamu sering peduli bahkan pada hal-hal kecil."
+text:"Karena memeee pedulii poll bahkan di hal-hal kecill."
 },
 
 {
 title:"Your Uniqueness",
-text:"Karena kamu berbeda dengan cara yang indah."
+text:"Karena kamu bedaaa tapiii dengann cara yang indahhhh."
 },
 
 {
 title:"Everything About You",
-text:"Karena setiap bagian dari dirimu memiliki alasan untuk disyukuri."
+text:"Karena semuaaa bagian darii dirinyaa memeee punyaaa alasan untuk akuuu disyukurii."
 },
 
 {
-title:"Because You're Gabrielle ❤️",
-text:"Karena alasan terbesar dari semuanya adalah karena kamu adalah Gabrielle Kelly Pranata."
+title:"Because You're Youuu ❤️",
+text:"Karenaaa alasan palingg besarr darii semuanyaa yaituu... kamu. Jadi dirimuu sendirii ajaa udahh cukupp poll buat acuu jatuhh cintaaa tiapp saat. Akuu ndaa butuhh alasann lainn selainn ituuu. ❤️"
 }
 
 ];
