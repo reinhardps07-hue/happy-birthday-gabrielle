@@ -377,3 +377,46 @@ galleryImages.forEach(img=>{
     });
 
 });
+const video = document.getElementById("memoryVideo");
+
+function fadeOutMusic() {
+    let vol = music.volume;
+
+    const fade = setInterval(() => {
+        if (vol > 0.05) {
+            vol -= 0.05;
+            music.volume = vol;
+        } else {
+            music.volume = 0;
+            music.pause();
+            clearInterval(fade);
+        }
+    }, 80);
+}
+
+function fadeInMusic() {
+    music.play();
+    music.volume = 0;
+
+    let vol = 0;
+
+    const fade = setInterval(() => {
+        if (vol < 0.95) {
+            vol += 0.05;
+            music.volume = vol;
+        } else {
+            music.volume = 1;
+            clearInterval(fade);
+        }
+    }, 80);
+}
+
+if(video){
+
+    video.addEventListener("play", fadeOutMusic);
+
+    video.addEventListener("pause", fadeInMusic);
+
+    video.addEventListener("ended", fadeInMusic);
+
+}
